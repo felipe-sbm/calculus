@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiral-calculus", "spiral-calculus\spiral-calculus.csproj", "{34C2DE31-2CED-400F-BB1E-C17DA85A9987}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculus", "spiral-calculus\calculus.csproj", "{34C2DE31-2CED-400F-BB1E-C17DA85A9987}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
